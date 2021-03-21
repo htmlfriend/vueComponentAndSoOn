@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "none",
+  "tabWidth": 4,
+  "semi": true,
+  "space-before-function-paren": ["error", "always"]
+}
